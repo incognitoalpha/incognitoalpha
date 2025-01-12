@@ -17,6 +17,6 @@
 ## 📫 Contact  
 - *Email:* [sarthaklakhotia.1550.com](mailto:sarthaklakhotia.1550.com)  
 - *GitHub:* [Incognitoalpha](https://github.com/incognitoalpha)  
-- *LinkedIn:* [Sarthakt](https://www.linkedin.com/in/sarthak1550)  
+- *LinkedIn:* [Sarthak](https://www.linkedin.com/in/sarthak1550)  
 
 ---
