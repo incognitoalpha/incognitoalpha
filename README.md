@@ -3,7 +3,7 @@
 ### 🌍 Location: Bengaluru, Karnataka, India  
 ### 🎓 Education:  
 - *R.V. College of Engineering* (2023–2027)  
-  - Bachelor of Engineering in *Information Science*  
+  - Bachelor of Engineering in *Computer Science with specialization in Cyber Security*  
   - *CGPA:* 9.28/10  
 
 ---
