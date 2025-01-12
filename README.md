@@ -15,7 +15,7 @@
 ---
 
 ## 📫 Contact  
-- *Email:* [sarthaklakhotia.1550.com](mailto:sarthaklakhotia.1550.com)  
+- *Email:* [sarthaklakhotia.1550@google.com](mailto:sarthaklakhotia.1550@google.com)  
 - *GitHub:* [Incognitoalpha](https://github.com/incognitoalpha)  
 - *LinkedIn:* [Sarthak](https://www.linkedin.com/in/sarthak1550)  
 
