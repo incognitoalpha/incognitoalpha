@@ -70,10 +70,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incognitoalpha&show_icons=true&theme=tokyonight)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incognitoalpha&theme=tokyonight" alt="incognitoalpha" /></p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incognitoalpha&show_icons=true&theme=tokyonight)</br>
+![](https://nirzak-streak-stats.vercel.app/?user=incognitoalpha&theme=tokyonight&hide_border=false)</br>
+<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br> --->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&layout=compact&theme=tokyonight)
 
 ---
