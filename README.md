@@ -9,7 +9,7 @@
 - 🚀 Love contributing to open-source and working on impactful projects
 - 💬 Ask me about **Machine Learning, Cyber Security, Full Stack**
 - ⚡ Fun fact: I love OSINT
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MJmZD83Mt5VRTiGnhxXAUPT1wS5QnOD5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IMQqvJB48oMUdW5FJs3GQhJuM277et_R/view?usp=sharing)
   
 ---
 
