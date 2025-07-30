@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incognitoalpha&label=Profile%20views&color=0e75b6&style=flat&theme=darkhub" alt="incognitoalpha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitoalpha&theme=tokyonight" alt="incognitoalpha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitoalpha&theme=darkhub" alt="incognitoalpha" /></a> </p>
 
 - 🌱 Currently studying at R.V. College of Engineering 
 - 🚀 Love contributing to open-source and working on impactful projects
