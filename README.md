@@ -78,8 +78,8 @@
 ---
 
 ## 🧠 LeetCode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/incognitoalpha)](https://leetcode.com/u/incognitoalpha/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/incognitoalpha?theme=dracula&font=JetBrains%20Mono&theme=tokyonight)](https://leetcode.com/incognitoalpha/)
 
 ---
 
@@ -92,4 +92,4 @@
 <a href="mailto:sarthaklakhotia.1550@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
 </p>
 
-## "Code like a hacker, think like a data scientist, deploy like a full-stack ninja.”
+## "Code like a hacker, think like a data scientist, deploy like a fullstack ninja.”
