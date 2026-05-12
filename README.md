@@ -16,9 +16,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=incognitoalpha&color=00ff41&style=flat-square&label=VISITORS&labelColor=0d1117)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sarthak1550)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/MAIL-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/MAIL-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:sarthaklakhotia.1550@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/github/followers/incognitoalpha?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=00ff41&label=FOLLOWERS)](https://github.com/incognitoalpha?tab=followers)
 
