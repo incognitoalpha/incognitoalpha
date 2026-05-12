@@ -102,13 +102,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=incognitoalpha&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&area_color=001a00&radius=4" width="100%"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/graph?username=incognitoalpha&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&area_color=001a00&radius=4" width="100%"/>
 
 <br/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=incognitoalpha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=4a7a4a&ring_color=00ff41&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=4a7a4a&langs_count=8" />
+<img height="175" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=incognitoalpha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=4a7a4a&langs_count=8" />
 
 <br/>
 
