@@ -1,95 +1,112 @@
-<h1 align="center">Hi 👋, I'm Incognito aka Sarthak</h1>
-<h2 align="center">Building the future, securely. One repo at a time.</h2>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=incognitoalpha&label=Profile%20views&color=0e75b6&style=flat&theme=darkhub" alt="incognitoalpha" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001a00,60:003300,100:0d1117&height=300&section=header&text=incognitoalpha&fontSize=72&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Systems%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Web%20%E2%80%A2%20Security&descSize=18&descAlignY=65&descColor=39ff14&stroke=00ff41&strokeWidth=2"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitoalpha&theme=darkhub" alt="incognitoalpha" /></a> </p>
+</div>
 
-- 🌱 Currently studying at R.V. College of Engineering 
-- 🚀 Love contributing to open-source and working on impactful projects
-- 💬 Ask me about **Machine Learning, Cyber Security, Full Stack**
-- ⚡ Fun fact: I love OSINT
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mDiKGTG56UAn-MtOJkCxVRxMT4stv5xe/view?usp=sharing)
-  
----
+<div align="center">
 
-## 🛠️ Technologies & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&height=60&lines=ghost+in+the+machine;build+in+silence%2C+let+the+code+speak;undefined+identity+%7C+defined+purpose;systems+%7C+AI+%7C+security+%7C+everything;%2F%2F+access+granted" alt="Typing SVG" />
 
-### 🔤 Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width = "80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width = "80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a>
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width = "80" height="80"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/streamlit.svg" alt="streamlit" width = "80" height="80"/>
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/n/numpy.svg" alt="numpy" width = "80" height="80"/>
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/logo_vs-code.svg" alt="vscode" width = "80" height="80"/>
-</p>
+</div>
 
-### 🛠 Developer Tools  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width = "80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width = "80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width = "80" height="80"/>  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width = "80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width = "80" height="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/>  
-</p>
+<br/>
 
-### 💾 Cloud & Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  width = "80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"width = "80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Thingspeak_logo_white.png" alt="thingspeak" width = "80" height="80"/>
-</p>
+<div align="center">
 
-🛡️ Cybersecurity Tools  
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="shodan" width = "80" height="80"/>
-  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali-linux" width = "80" height="80"/>
-  <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/wireshark-alt.svg" alt="wireshark" width = "80" height="80"/>
-  <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/metasploit.svg" alt="metasploit" width = "80" height="80"/>
-  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/zaproxy.svg" alt="zap" width = "80" height="80"/>
-  <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/burp.svg" alt="burpsuite" width = "80" height="80"/>
-</p> 
+![Profile Views](https://komarev.com/ghpvc/?username=incognitoalpha&color=00ff41&style=for-the-badge&label=VISITORS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/incognitoalpha?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41)](https://github.com/incognitoalpha?tab=followers)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<img align="right" alt="Hacking" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incognitoalpha&show_icons=true&theme=tokyonight)</br>
-![](https://nirzak-streak-stats.vercel.app/?user=incognitoalpha&theme=tokyonight&hide_border=false)</br>
-<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br> --->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&layout=compact&theme=tokyonight)
+## `> whoami`
+
+```python
+ghost = {
+    "alias"    : "incognitoalpha",
+    "identity" : "[REDACTED]",
+    "focus"    : ["Systems", "AI/ML", "Web", "Security"],
+    "learning" : ["LLMs", "Exploit Dev", "Distributed Sys"],
+    "stack"    : ["Python", "Rust", "Go", "TypeScript"],
+    "os"       : "Arch btw",
+    "location" : "somewhere between 0x00 and 0xFF",
+    "status"   : "always building, rarely sleeping",
+    "belief"   : "understand the system before breaking it"
+}
+```
+
+<br clear="right"/>
 
 ---
 
-## 🧠 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/incognitoalpha)](https://leetcode.com/u/incognitoalpha/)
+## `> cat /proc/tech_stack`
 
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,rust,go,typescript,javascript,c,cpp,bash&theme=dark&perline=8" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=8" />
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff41)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff41)
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff41)
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mongodb,mysql,redis,graphql&theme=dark&perline=8" />
+
+### Security & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,nginx,cloudflare&theme=dark&perline=8" />
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff41)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+## `> git log --all --graph`
 
-<p align="left">
-  <a href="https://linkedin.com/in/sarthak1550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak1550" height="30" width="40" /></a>
-<a href="https://kaggle.com/incognitoalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="incognitoalpha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/incognito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incognito" height="30" width="40" /></a>
-<a href="mailto:sarthaklakhotia.1550@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-## "Code like a hacker, think like a data scientist, deploy like a fullstack ninja.”
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=incognitoalpha&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&area_color=003300" width="100%"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=incognitoalpha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=8b949e&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognitoalpha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=8b949e" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=incognitoalpha&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+## `> watch -n 1 contribution_trace`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/incognitoalpha/incognitoalpha/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:0d1117&height=120&section=footer&text=build+in+the+shadows.+ship+in+the+light.&fontSize=22&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
+
+</div>
