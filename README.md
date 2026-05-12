@@ -14,10 +14,13 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/%E2%96%A0_VISITORS-komarev-00ff41?style=flat-square&labelColor=0d1117&color=001a00)
-![Profile Views](https://komarev.com/ghpvc/?username=incognitoalpha&color=00ff41&style=flat-square&label=)
-&nbsp;&nbsp;
-![](https://img.shields.io/github/followers/incognitoalpha?style=flat-square&labelColor=0d1117&color=001a00&logo=github&logoColor=00ff41&label=%E2%96%A0_FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=incognitoalpha&color=00ff41&style=flat-square&label=VISITORS&labelColor=0d1117)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/MAIL-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:YOUR_EMAIL@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/github/followers/incognitoalpha?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=00ff41&label=FOLLOWERS)](https://github.com/incognitoalpha?tab=followers)
 
 </div>
 
@@ -118,7 +121,11 @@
 ### `// COMMIT CRAWL`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/incognitoalpha/incognitoalpha/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
